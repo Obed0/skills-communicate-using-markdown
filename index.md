@@ -13,3 +13,19 @@ con el código
 ```
 
 ![Imagen de Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+### Ahora añadimos formato Codigo
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+````javascript
+var Soyvariable = "Hello World!"
+````
+
+```Python
+Pyvar = "Helou guorld"
+```
