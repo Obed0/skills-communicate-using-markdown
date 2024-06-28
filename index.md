@@ -29,3 +29,13 @@ var Soyvariable = "Hello World!"
 ```Python
 Pyvar = "Helou guorld"
 ```
+
+### Now Add a task list
+- [ ] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] Holaaa
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
